@@ -1,0 +1,17 @@
+{
+  "name": "lark-gpt5-bot",
+  "version": "1.0.0",
+  "main": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "^1.18.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "openai": "^4.52.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
