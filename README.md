@@ -1,2 +1,5 @@
-# Chatbotgpt5
-Chatbot GPT 5.0
+# Lark GPT-5 Bot (CommonJS)
+
+## Install
+```bash
+npm install
